@@ -1,0 +1,353 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FEF7A7A1-8662-49A9-95E5-36BDB71D5413}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Clinic_Management_System</RootNamespace>
+    <AssemblyName>Clinic Management System</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Data Access Layer\Appointment.cs" />
+    <Compile Include="Data Access Layer\Treatment.cs" />
+    <Compile Include="Presentation Layer\AdminUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\AdminUI.designer.cs">
+      <DependentUpon>AdminUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\GiveTreatment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\GiveTreatment.designer.cs">
+      <DependentUpon>GiveTreatment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\MedicalHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\MedicalHistory.designer.cs">
+      <DependentUpon>MedicalHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\TotalEarning.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\TotalEarning.designer.cs">
+      <DependentUpon>TotalEarning.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Data Access Layer\Admin.cs" />
+    <Compile Include="Data Access Layer\AdminDataAccess.cs" />
+    <Compile Include="Data Access Layer\DataAccess.cs" />
+    <Compile Include="Data Access Layer\Doctor.cs" />
+    <Compile Include="Data Access Layer\DoctorDataAccess.cs" />
+    <Compile Include="Data Access Layer\Patient.cs" />
+    <Compile Include="Data Access Layer\PatientDataAccess.cs" />
+    <Compile Include="Data Access Layer\Receptionist.cs" />
+    <Compile Include="Data Access Layer\ReceptionistDataAccess.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\AddPatientUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\AddPatientUI.Designer.cs">
+      <DependentUpon>AddPatientUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\AddAdminUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\AddAdminUI.Designer.cs">
+      <DependentUpon>AddAdminUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\AddReceptionistUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\AddReceptionistUI.Designer.cs">
+      <DependentUpon>AddReceptionistUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\AdminManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\AdminManagement.Designer.cs">
+      <DependentUpon>AdminManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\AppointmentList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\AppointmentList.designer.cs">
+      <DependentUpon>AppointmentList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\BookAppointment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\BookAppointment.Designer.cs">
+      <DependentUpon>BookAppointment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Dashboard.Designer.cs">
+      <DependentUpon>Dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\DeleteAdminUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\DeleteAdminUI.Designer.cs">
+      <DependentUpon>DeleteAdminUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\AddDoctorUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\AddDoctorUI.designer.cs">
+      <DependentUpon>AddDoctorUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\DeleteDoctorUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\DeleteDoctorUI.designer.cs">
+      <DependentUpon>DeleteDoctorUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\DeletePatientUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\DeletePatientUI.Designer.cs">
+      <DependentUpon>DeletePatientUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\DeleteReceptionist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\DeleteReceptionist.Designer.cs">
+      <DependentUpon>DeleteReceptionist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\DoctorManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\DoctorManagement.Designer.cs">
+      <DependentUpon>DoctorManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\DoctorUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\DoctorUI.Designer.cs">
+      <DependentUpon>DoctorUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\PatientManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\PatientManagement.Designer.cs">
+      <DependentUpon>PatientManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\PatientUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\PatientUI.Designer.cs">
+      <DependentUpon>PatientUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\ReceptionistManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\ReceptionistManagement.Designer.cs">
+      <DependentUpon>ReceptionistManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\ReceptionistUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\ReceptionistUI.Designer.cs">
+      <DependentUpon>ReceptionistUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\SeeAppointment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\SeeAppointment.Designer.cs">
+      <DependentUpon>SeeAppointment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\UpdateAdminUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\UpdateAdminUI.Designer.cs">
+      <DependentUpon>UpdateAdminUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\UpdateDoctorUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\UpdateDoctorUI.designer.cs">
+      <DependentUpon>UpdateDoctorUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\UpdatePatientUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\UpdatePatientUI.Designer.cs">
+      <DependentUpon>UpdatePatientUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\UpdateReceptionist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\UpdateReceptionist.Designer.cs">
+      <DependentUpon>UpdateReceptionist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\AddPatientUI.resx">
+      <DependentUpon>AddPatientUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\AddAdminUI.resx">
+      <DependentUpon>AddAdminUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\AddReceptionistUI.resx">
+      <DependentUpon>AddReceptionistUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\AdminManagement.resx">
+      <DependentUpon>AdminManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\AdminUI.resx">
+      <DependentUpon>AdminUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\AppointmentList.resx">
+      <DependentUpon>AppointmentList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\BookAppointment.resx">
+      <DependentUpon>BookAppointment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Dashboard.resx">
+      <DependentUpon>Dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\DeleteAdminUI.resx">
+      <DependentUpon>DeleteAdminUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\AddDoctorUI.resx">
+      <DependentUpon>AddDoctorUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\DeleteDoctorUI.resx">
+      <DependentUpon>DeleteDoctorUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\DeletePatientUI.resx">
+      <DependentUpon>DeletePatientUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\DeleteReceptionist.resx">
+      <DependentUpon>DeleteReceptionist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\DoctorManagement.resx">
+      <DependentUpon>DoctorManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\DoctorUI.resx">
+      <DependentUpon>DoctorUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\GiveTreatment.resx">
+      <DependentUpon>GiveTreatment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\MedicalHistory.resx">
+      <DependentUpon>MedicalHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\PatientManagement.resx">
+      <DependentUpon>PatientManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\PatientUI.resx">
+      <DependentUpon>PatientUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\ReceptionistManagement.resx">
+      <DependentUpon>ReceptionistManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\ReceptionistUI.resx">
+      <DependentUpon>ReceptionistUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\SeeAppointment.resx">
+      <DependentUpon>SeeAppointment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\TotalEarning.resx">
+      <DependentUpon>TotalEarning.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\UpdateAdminUI.resx">
+      <DependentUpon>UpdateAdminUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\UpdateDoctorUI.resx">
+      <DependentUpon>UpdateDoctorUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\UpdatePatientUI.resx">
+      <DependentUpon>UpdatePatientUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\UpdateReceptionist.resx">
+      <DependentUpon>UpdateReceptionist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MicrosoftTeams-image %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MicrosoftTeams-image %282%29.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

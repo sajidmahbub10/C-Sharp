@@ -1,0 +1,917 @@
+C:\Users\User\Desktop\Object Oriented Programming 2\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.exe.config
+C:\Users\User\Desktop\Object Oriented Programming 2\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.exe
+C:\Users\User\Desktop\Object Oriented Programming 2\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.pdb
+C:\Users\User\Desktop\Object Oriented Programming 2\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Object Oriented Programming 2\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Form1.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AddAdminUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AdminManagement.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AdminUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteAdminUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AddDoctorUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DoctorUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.PatientUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateAdminUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Properties.Resources.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Object Oriented Programming 2\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Object Oriented Programming 2\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.exe
+C:\Users\User\Desktop\Object Oriented Programming 2\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.pdb
+C:\Users\User\Desktop\Object Oriented Programming 2\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.Login.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.Dashboard.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteDoctorUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateDoctorUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AppointmentListUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.BookAppointmentUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.GiveTreatmentUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.SeeAppointment.resources
+F:\6th Semester\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Form1.resources
+F:\6th Semester\Clinic Management System\Clinic Management System\obj\Debug\CMS.AddPatientUI.resources
+F:\6th Semester\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AddAdminUI.resources
+F:\6th Semester\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AddReceptionist.resources
+F:\6th Semester\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AdminManagement.resources
+F:\6th Semester\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AdminUI.resources
+F:\6th Semester\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AppointmentListUI.resources
+F:\6th Semester\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.BookAppointmentUI.resources
+F:\6th Semester\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.Dashboard.resources
+F:\6th Semester\Clinic Management System\Clinic Management System\obj\Debug\CMS.PresentationLayer.DeletePatient.resources
+F:\6th Semester\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteAdminUI.resources
+F:\6th Semester\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AddDoctorUI.resources
+F:\6th Semester\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteDoctorUI.resources
+F:\6th Semester\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteReceptionist.resources
+F:\6th Semester\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DoctorManagement.resources
+F:\6th Semester\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DoctorUI.resources
+F:\6th Semester\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.Login.resources
+F:\6th Semester\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.PatientManagement.resources
+F:\6th Semester\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.PatientUI.resources
+F:\6th Semester\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.GiveTreatmentUI.resources
+F:\6th Semester\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.ReceptionistManagement.resources
+F:\6th Semester\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.ReceptionistUI.resources
+F:\6th Semester\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.SeeAppointment.resources
+F:\6th Semester\Clinic Management System\Clinic Management System\obj\Debug\CMS.UpdateDoctorUI.resources
+F:\6th Semester\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateAdminUI.resources
+F:\6th Semester\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateDoctorUI.resources
+F:\6th Semester\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateReceptionist.resources
+F:\6th Semester\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Properties.Resources.resources
+F:\6th Semester\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.csproj.GenerateResource.cache
+F:\6th Semester\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.csproj.CoreCompileInputs.cache
+F:\6th Semester\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.csproj.AssemblyReference.cache
+F:\6th Semester\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateAdmin.resources
+C:\Users\User\Downloads\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Form1.resources
+C:\Users\User\Downloads\New folder\Clinic Management System\Clinic Management System\obj\Debug\CMS.AddPatientUI.resources
+C:\Users\User\Downloads\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AddAdminUI.resources
+C:\Users\User\Downloads\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AdminManagement.resources
+C:\Users\User\Downloads\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AdminUI.resources
+C:\Users\User\Downloads\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AppointmentListUI.resources
+C:\Users\User\Downloads\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.BookAppointmentUI.resources
+C:\Users\User\Downloads\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.Dashboard.resources
+C:\Users\User\Downloads\New folder\Clinic Management System\Clinic Management System\obj\Debug\CMS.PresentationLayer.DeletePatient.resources
+C:\Users\User\Downloads\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteAdminUI.resources
+C:\Users\User\Downloads\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AddDoctorUI.resources
+C:\Users\User\Downloads\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteDoctorUI.resources
+C:\Users\User\Downloads\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteReceptionist.resources
+C:\Users\User\Downloads\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DoctorManagement.resources
+C:\Users\User\Downloads\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DoctorUI.resources
+C:\Users\User\Downloads\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.Login.resources
+C:\Users\User\Downloads\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.PatientManagement.resources
+C:\Users\User\Downloads\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.PatientUI.resources
+C:\Users\User\Downloads\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.GiveTreatmentUI.resources
+C:\Users\User\Downloads\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.ReceptionistManagement.resources
+C:\Users\User\Downloads\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.ReceptionistUI.resources
+C:\Users\User\Downloads\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.SeeAppointment.resources
+C:\Users\User\Downloads\New folder\Clinic Management System\Clinic Management System\obj\Debug\CMS.UpdateDoctorUI.resources
+C:\Users\User\Downloads\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateAdminUI.resources
+C:\Users\User\Downloads\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateDoctorUI.resources
+C:\Users\User\Downloads\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateReceptionist.resources
+C:\Users\User\Downloads\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Properties.Resources.resources
+C:\Users\User\Downloads\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.csproj.GenerateResource.cache
+C:\Users\User\Downloads\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\New folder\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.exe.config
+C:\Users\User\Downloads\New folder\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.exe
+C:\Users\User\Downloads\New folder\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.pdb
+C:\Users\User\Downloads\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.exe
+C:\Users\User\Downloads\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.pdb
+C:\Users\User\Downloads\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addReceptionistUI.resources
+F:\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.exe.config
+F:\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.exe
+F:\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.pdb
+F:\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.csproj.AssemblyReference.cache
+F:\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Form1.resources
+F:\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addAdminUI.resources
+F:\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addReceptionistUI.resources
+F:\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AdminManagement.resources
+F:\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AdminUI.resources
+F:\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AppointmentListUI.resources
+F:\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.BookAppointmentUI.resources
+F:\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.Dashboard.resources
+F:\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteAdminUI.resources
+F:\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addDoctorUI.resources
+F:\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteDoctorUI.resources
+F:\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteReceptionist.resources
+F:\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DoctorManagement.resources
+F:\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DoctorUI.resources
+F:\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.Login.resources
+F:\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.PatientManagement.resources
+F:\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.PatientUI.resources
+F:\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.GiveTreatmentUI.resources
+F:\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.ReceptionistManagement.resources
+F:\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.ReceptionistUI.resources
+F:\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.SeeAppointment.resources
+F:\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateAdminUI.resources
+F:\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateDoctorUI.resources
+F:\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateReceptionist.resources
+F:\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Properties.Resources.resources
+F:\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.csproj.GenerateResource.cache
+F:\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.csproj.CoreCompileInputs.cache
+F:\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.exe
+F:\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.pdb
+F:\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AddPatientUI.resources
+F:\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeletePatientUI.resources
+F:\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdatePatientUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AddPatientUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addReceptionistUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeletePatientUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteReceptionist.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DoctorManagement.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.PatientManagement.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.ReceptionistManagement.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.ReceptionistUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdatePatientUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateReceptionist.resources
+F:\1\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.exe.config
+F:\1\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.exe
+F:\1\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.pdb
+F:\1\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.csproj.AssemblyReference.cache
+F:\1\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Form1.resources
+F:\1\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AddPatientUI.resources
+F:\1\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addAdminUI.resources
+F:\1\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addReceptionistUI.resources
+F:\1\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AdminManagement.resources
+F:\1\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AdminUI.resources
+F:\1\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AppointmentListUI.resources
+F:\1\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.BookAppointmentUI.resources
+F:\1\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.Dashboard.resources
+F:\1\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteAdminUI.resources
+F:\1\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addDoctorUI.resources
+F:\1\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteDoctorUI.resources
+F:\1\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeletePatientUI.resources
+F:\1\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteReceptionist.resources
+F:\1\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DoctorManagement.resources
+F:\1\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DoctorUI.resources
+F:\1\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.Login.resources
+F:\1\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.PatientManagement.resources
+F:\1\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.PatientUI.resources
+F:\1\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.GiveTreatmentUI.resources
+F:\1\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.ReceptionistManagement.resources
+F:\1\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.ReceptionistUI.resources
+F:\1\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.SeeAppointment.resources
+F:\1\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateAdminUI.resources
+F:\1\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateDoctorUI.resources
+F:\1\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdatePatientUI.resources
+F:\1\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateReceptionist.resources
+F:\1\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Properties.Resources.resources
+F:\1\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.csproj.GenerateResource.cache
+F:\1\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.csproj.CoreCompileInputs.cache
+F:\1\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.exe
+F:\1\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.pdb
+F:\2\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.exe.config
+F:\2\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.exe
+F:\2\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.pdb
+F:\2\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.csproj.AssemblyReference.cache
+F:\2\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Form1.resources
+F:\2\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AddPatientUI.resources
+F:\2\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addAdminUI.resources
+F:\2\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addReceptionistUI.resources
+F:\2\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AdminManagement.resources
+F:\2\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AdminUI.resources
+F:\2\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AppointmentListUI.resources
+F:\2\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.BookAppointmentUI.resources
+F:\2\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.Dashboard.resources
+F:\2\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteAdminUI.resources
+F:\2\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addDoctorUI.resources
+F:\2\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteDoctorUI.resources
+F:\2\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeletePatientUI.resources
+F:\2\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteReceptionist.resources
+F:\2\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DoctorManagement.resources
+F:\2\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DoctorUI.resources
+F:\2\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.Login.resources
+F:\2\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.PatientManagement.resources
+F:\2\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.PatientUI.resources
+F:\2\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.GiveTreatmentUI.resources
+F:\2\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.ReceptionistManagement.resources
+F:\2\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.ReceptionistUI.resources
+F:\2\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.SeeAppointment.resources
+F:\2\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateAdminUI.resources
+F:\2\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateDoctorUI.resources
+F:\2\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdatePatientUI.resources
+F:\2\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateReceptionist.resources
+F:\2\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Properties.Resources.resources
+F:\2\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.csproj.GenerateResource.cache
+F:\2\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.csproj.CoreCompileInputs.cache
+F:\2\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.exe
+F:\2\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.pdb
+F:\4\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.exe.config
+F:\4\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.exe
+F:\4\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.pdb
+F:\4\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.csproj.AssemblyReference.cache
+F:\4\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Form1.resources
+F:\4\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AddPatientUI.resources
+F:\4\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addAdminUI.resources
+F:\4\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addReceptionistUI.resources
+F:\4\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AdminManagement.resources
+F:\4\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AdminUI.resources
+F:\4\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AppointmentListUI.resources
+F:\4\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.BookAppointmentUI.resources
+F:\4\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.Dashboard.resources
+F:\4\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteAdminUI.resources
+F:\4\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addDoctorUI.resources
+F:\4\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteDoctorUI.resources
+F:\4\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeletePatientUI.resources
+F:\4\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteReceptionist.resources
+F:\4\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DoctorManagement.resources
+F:\4\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DoctorUI.resources
+F:\4\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.Login.resources
+F:\4\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.PatientManagement.resources
+F:\4\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.PatientUI.resources
+F:\4\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.GiveTreatmentUI.resources
+F:\4\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.ReceptionistManagement.resources
+F:\4\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.ReceptionistUI.resources
+F:\4\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.SeeAppointment.resources
+F:\4\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateAdminUI.resources
+F:\4\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateDoctorUI.resources
+F:\4\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdatePatientUI.resources
+F:\4\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateReceptionist.resources
+F:\4\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Properties.Resources.resources
+F:\4\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.csproj.GenerateResource.cache
+F:\4\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.csproj.CoreCompileInputs.cache
+F:\4\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.exe
+F:\4\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.pdb
+D:\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.exe.config
+D:\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.exe
+D:\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.pdb
+D:\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.csproj.AssemblyReference.cache
+D:\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Form1.resources
+D:\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AddPatientUI.resources
+D:\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addAdminUI.resources
+D:\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addReceptionistUI.resources
+D:\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AdminManagement.resources
+D:\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AdminUI.resources
+D:\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AppointmentListUI.resources
+D:\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.BookAppointmentUI.resources
+D:\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.Dashboard.resources
+D:\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteAdminUI.resources
+D:\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addDoctorUI.resources
+D:\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteDoctorUI.resources
+D:\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeletePatientUI.resources
+D:\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteReceptionist.resources
+D:\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DoctorManagement.resources
+D:\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DoctorUI.resources
+D:\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.Login.resources
+D:\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.PatientManagement.resources
+D:\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.PatientUI.resources
+D:\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.GiveTreatmentUI.resources
+D:\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.ReceptionistManagement.resources
+D:\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.ReceptionistUI.resources
+D:\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.SeeAppointment.resources
+D:\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateAdminUI.resources
+D:\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateDoctorUI.resources
+D:\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdatePatientUI.resources
+D:\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateReceptionist.resources
+D:\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Properties.Resources.resources
+D:\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.csproj.GenerateResource.cache
+D:\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.csproj.CoreCompileInputs.cache
+D:\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.exe
+D:\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.pdb
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.exe.config
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.exe
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.pdb
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Form1.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AddPatientUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addAdminUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addReceptionistUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AdminManagement.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AdminUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AppointmentListUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.BookAppointmentUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.Dashboard.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteAdminUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addDoctorUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteDoctorUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeletePatientUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteReceptionist.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DoctorManagement.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DoctorUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.Login.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.PatientManagement.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.PatientUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.GiveTreatmentUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.ReceptionistManagement.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.ReceptionistUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.SeeAppointment.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateAdminUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateDoctorUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdatePatientUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateReceptionist.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Properties.Resources.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.exe
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.pdb
+F:\2\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.MedicalHistory.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\New folder\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.exe.config
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\New folder\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.exe
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\New folder\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.pdb
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Form1.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AddPatientUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addAdminUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addReceptionistUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AdminManagement.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AdminUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AppointmentListUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.BookAppointmentUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.Dashboard.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteAdminUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addDoctorUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteDoctorUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeletePatientUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteReceptionist.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DoctorManagement.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DoctorUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.Login.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.MedicalHistory.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.PatientManagement.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.PatientUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.GiveTreatmentUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.ReceptionistManagement.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.ReceptionistUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.SeeAppointment.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateAdminUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateDoctorUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdatePatientUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateReceptionist.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Properties.Resources.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.exe
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\New folder\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.pdb
+F:\6\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.exe.config
+F:\6\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.exe
+F:\6\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.pdb
+F:\6\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.csproj.AssemblyReference.cache
+F:\6\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Form1.resources
+F:\6\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AddPatientUI.resources
+F:\6\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addAdminUI.resources
+F:\6\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addReceptionistUI.resources
+F:\6\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AdminManagement.resources
+F:\6\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AdminUI.resources
+F:\6\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AppointmentListUI.resources
+F:\6\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.BookAppointmentUI.resources
+F:\6\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.Dashboard.resources
+F:\6\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteAdminUI.resources
+F:\6\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addDoctorUI.resources
+F:\6\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteDoctorUI.resources
+F:\6\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeletePatientUI.resources
+F:\6\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteReceptionist.resources
+F:\6\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DoctorManagement.resources
+F:\6\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DoctorUI.resources
+F:\6\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.Login.resources
+F:\6\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.MedicalHistory.resources
+F:\6\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.PatientManagement.resources
+F:\6\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.PatientUI.resources
+F:\6\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.GiveTreatmentUI.resources
+F:\6\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.ReceptionistManagement.resources
+F:\6\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.ReceptionistUI.resources
+F:\6\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.SeeAppointment.resources
+F:\6\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateAdminUI.resources
+F:\6\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateDoctorUI.resources
+F:\6\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdatePatientUI.resources
+F:\6\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateReceptionist.resources
+F:\6\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Properties.Resources.resources
+F:\6\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.csproj.GenerateResource.cache
+F:\6\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.csproj.CoreCompileInputs.cache
+F:\6\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.exe
+F:\6\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.pdb
+F:\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.MedicalHistory.resources
+F:\5\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.exe.config
+F:\5\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.exe
+F:\5\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.pdb
+F:\5\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.csproj.AssemblyReference.cache
+F:\5\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Form1.resources
+F:\5\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AddPatientUI.resources
+F:\5\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addAdminUI.resources
+F:\5\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addReceptionistUI.resources
+F:\5\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AdminManagement.resources
+F:\5\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AdminUI.resources
+F:\5\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AppointmentListUI.resources
+F:\5\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.BookAppointmentUI.resources
+F:\5\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.Dashboard.resources
+F:\5\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteAdminUI.resources
+F:\5\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addDoctorUI.resources
+F:\5\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteDoctorUI.resources
+F:\5\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeletePatientUI.resources
+F:\5\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteReceptionist.resources
+F:\5\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DoctorManagement.resources
+F:\5\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DoctorUI.resources
+F:\5\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.Login.resources
+F:\5\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.MedicalHistory.resources
+F:\5\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.PatientManagement.resources
+F:\5\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.PatientUI.resources
+F:\5\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.GiveTreatmentUI.resources
+F:\5\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.ReceptionistManagement.resources
+F:\5\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.ReceptionistUI.resources
+F:\5\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.SeeAppointment.resources
+F:\5\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateAdminUI.resources
+F:\5\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateDoctorUI.resources
+F:\5\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdatePatientUI.resources
+F:\5\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateReceptionist.resources
+F:\5\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Properties.Resources.resources
+F:\5\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.csproj.GenerateResource.cache
+F:\5\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.csproj.CoreCompileInputs.cache
+F:\5\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.exe
+F:\5\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.pdb
+F:\4\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.MedicalHistory.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.exe.config
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.exe
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.pdb
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Form1.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AddPatientUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addAdminUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addReceptionistUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AdminManagement.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AdminUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AppointmentListUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.BookAppointmentUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.Dashboard.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteAdminUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addDoctorUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteDoctorUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeletePatientUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteReceptionist.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DoctorManagement.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DoctorUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.Login.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.MedicalHistory.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.PatientManagement.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.PatientUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.GiveTreatmentUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.ReceptionistManagement.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.ReceptionistUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.SeeAppointment.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateAdminUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateDoctorUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdatePatientUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateReceptionist.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Properties.Resources.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.exe
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.pdb
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\New folder\Clinic Management System\bin\Debug\Clinic Management System.exe.config
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\New folder\Clinic Management System\bin\Debug\Clinic Management System.exe
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\New folder\Clinic Management System\bin\Debug\Clinic Management System.pdb
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\New folder\Clinic Management System\obj\Debug\Clinic Management System.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Form1.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AddPatientUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addAdminUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addReceptionistUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AdminManagement.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AdminUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AppointmentListUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.BookAppointmentUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.Dashboard.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteAdminUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addDoctorUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteDoctorUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeletePatientUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteReceptionist.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DoctorManagement.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DoctorUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.Login.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.MedicalHistory.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.PatientManagement.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.PatientUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.GiveTreatmentUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.ReceptionistManagement.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.ReceptionistUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.SeeAppointment.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateAdminUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateDoctorUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdatePatientUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateReceptionist.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Properties.Resources.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\New folder\Clinic Management System\obj\Debug\Clinic Management System.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\New folder\Clinic Management System\obj\Debug\Clinic Management System.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\New folder\Clinic Management System\obj\Debug\Clinic Management System.exe
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\Clinic Management System\New folder\Clinic Management System\obj\Debug\Clinic Management System.pdb
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\New folder\Clinic Management System\bin\Debug\Clinic Management System.exe.config
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\New folder\Clinic Management System\bin\Debug\Clinic Management System.exe
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\New folder\Clinic Management System\bin\Debug\Clinic Management System.pdb
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic Management System.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Form1.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AddPatientUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addAdminUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addReceptionistUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AdminManagement.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AdminUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AppointmentListUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.BookAppointmentUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.Dashboard.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteAdminUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addDoctorUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteDoctorUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeletePatientUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteReceptionist.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DoctorManagement.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DoctorUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.Login.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.MedicalHistory.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.PatientManagement.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.PatientUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.GiveTreatmentUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.ReceptionistManagement.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.ReceptionistUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.SeeAppointment.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateAdminUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateDoctorUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdatePatientUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateReceptionist.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Properties.Resources.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic Management System.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic Management System.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic Management System.exe
+C:\Users\User\Desktop\Object Oriented Programming 2\New folder\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic Management System.pdb
+F:\final\Clinic Management System\bin\Debug\Clinic Management System.exe.config
+F:\final\Clinic Management System\bin\Debug\Clinic Management System.exe
+F:\final\Clinic Management System\bin\Debug\Clinic Management System.pdb
+F:\final\Clinic Management System\obj\Debug\Clinic Management System.csproj.AssemblyReference.cache
+F:\final\Clinic Management System\obj\Debug\Clinic_Management_System.Form1.resources
+F:\final\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AddPatientUI.resources
+F:\final\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addAdminUI.resources
+F:\final\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addReceptionistUI.resources
+F:\final\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AdminManagement.resources
+F:\final\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AdminUI.resources
+F:\final\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AppointmentListUI.resources
+F:\final\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.BookAppointmentUI.resources
+F:\final\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.Dashboard.resources
+F:\final\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteAdminUI.resources
+F:\final\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addDoctorUI.resources
+F:\final\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteDoctorUI.resources
+F:\final\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeletePatientUI.resources
+F:\final\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteReceptionist.resources
+F:\final\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DoctorManagement.resources
+F:\final\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DoctorUI.resources
+F:\final\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.Login.resources
+F:\final\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.MedicalHistory.resources
+F:\final\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.PatientManagement.resources
+F:\final\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.PatientUI.resources
+F:\final\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.GiveTreatmentUI.resources
+F:\final\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.ReceptionistManagement.resources
+F:\final\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.ReceptionistUI.resources
+F:\final\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.SeeAppointment.resources
+F:\final\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateAdminUI.resources
+F:\final\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateDoctorUI.resources
+F:\final\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdatePatientUI.resources
+F:\final\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateReceptionist.resources
+F:\final\Clinic Management System\obj\Debug\Clinic_Management_System.Properties.Resources.resources
+F:\final\Clinic Management System\obj\Debug\Clinic Management System.csproj.GenerateResource.cache
+F:\final\Clinic Management System\obj\Debug\Clinic Management System.csproj.CoreCompileInputs.cache
+F:\final\Clinic Management System\obj\Debug\Clinic Management System.exe
+F:\final\Clinic Management System\obj\Debug\Clinic Management System.pdb
+F:\final2\Clinic Management System\bin\Debug\Clinic Management System.exe.config
+F:\final2\Clinic Management System\bin\Debug\Clinic Management System.exe
+F:\final2\Clinic Management System\bin\Debug\Clinic Management System.pdb
+F:\final2\Clinic Management System\obj\Debug\Clinic Management System.csproj.AssemblyReference.cache
+F:\final2\Clinic Management System\obj\Debug\Clinic_Management_System.Form1.resources
+F:\final2\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AddPatientUI.resources
+F:\final2\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addAdminUI.resources
+F:\final2\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addReceptionistUI.resources
+F:\final2\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AdminManagement.resources
+F:\final2\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AdminUI.resources
+F:\final2\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AppointmentListUI.resources
+F:\final2\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.BookAppointmentUI.resources
+F:\final2\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.Dashboard.resources
+F:\final2\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteAdminUI.resources
+F:\final2\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addDoctorUI.resources
+F:\final2\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteDoctorUI.resources
+F:\final2\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeletePatientUI.resources
+F:\final2\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteReceptionist.resources
+F:\final2\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DoctorManagement.resources
+F:\final2\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DoctorUI.resources
+F:\final2\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.Login.resources
+F:\final2\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.MedicalHistory.resources
+F:\final2\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.PatientManagement.resources
+F:\final2\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.PatientUI.resources
+F:\final2\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.GiveTreatmentUI.resources
+F:\final2\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.ReceptionistManagement.resources
+F:\final2\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.ReceptionistUI.resources
+F:\final2\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.SeeAppointment.resources
+F:\final2\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateAdminUI.resources
+F:\final2\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateDoctorUI.resources
+F:\final2\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdatePatientUI.resources
+F:\final2\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateReceptionist.resources
+F:\final2\Clinic Management System\obj\Debug\Clinic_Management_System.Properties.Resources.resources
+F:\final2\Clinic Management System\obj\Debug\Clinic Management System.csproj.GenerateResource.cache
+F:\final2\Clinic Management System\obj\Debug\Clinic Management System.csproj.CoreCompileInputs.cache
+F:\final2\Clinic Management System\obj\Debug\Clinic Management System.exe
+F:\final2\Clinic Management System\obj\Debug\Clinic Management System.pdb
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\final2\Clinic Management System\bin\Debug\Clinic Management System.exe.config
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\final2\Clinic Management System\bin\Debug\Clinic Management System.exe
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\final2\Clinic Management System\obj\Debug\Clinic Management System.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\final2\Clinic Management System\obj\Debug\Clinic_Management_System.Form1.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\final2\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AddPatientUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\final2\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addAdminUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\final2\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addReceptionistUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\final2\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AdminManagement.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\final2\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AdminUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\final2\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AppointmentListUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\final2\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.BookAppointmentUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\final2\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.Dashboard.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\final2\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteAdminUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\final2\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addDoctorUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\final2\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteDoctorUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\final2\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeletePatientUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\final2\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteReceptionist.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\final2\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DoctorManagement.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\final2\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DoctorUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\final2\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.Login.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\final2\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.MedicalHistory.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\final2\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.PatientManagement.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\final2\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.PatientUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\final2\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.GiveTreatmentUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\final2\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.ReceptionistManagement.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\final2\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.ReceptionistUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\final2\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.SeeAppointment.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\final2\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateAdminUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\final2\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateDoctorUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\final2\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdatePatientUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\final2\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateReceptionist.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\final2\Clinic Management System\obj\Debug\Clinic_Management_System.Properties.Resources.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\final2\Clinic Management System\obj\Debug\Clinic Management System.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\final2\Clinic Management System\obj\Debug\Clinic Management System.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\final2\Clinic Management System\obj\Debug\Clinic Management System.exe
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\final2\Clinic Management System\obj\Debug\Clinic Management System.pdb
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\Clinic Management System\bin\Debug\Clinic Management System.exe.config
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\Clinic Management System\bin\Debug\Clinic Management System.exe
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\Clinic Management System\bin\Debug\Clinic Management System.pdb
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\Clinic Management System\obj\Debug\Clinic Management System.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\Clinic Management System\obj\Debug\Clinic_Management_System.Form1.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AddPatientUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addAdminUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addReceptionistUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AdminManagement.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AdminUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AppointmentListUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.BookAppointmentUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.Dashboard.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteAdminUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addDoctorUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteDoctorUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeletePatientUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteReceptionist.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DoctorManagement.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DoctorUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.Login.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.MedicalHistory.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.PatientManagement.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.PatientUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.GiveTreatmentUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.ReceptionistManagement.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.ReceptionistUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.SeeAppointment.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateAdminUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateDoctorUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdatePatientUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateReceptionist.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\Clinic Management System\obj\Debug\Clinic_Management_System.Properties.Resources.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\Clinic Management System\obj\Debug\Clinic Management System.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\Clinic Management System\obj\Debug\Clinic Management System.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\Clinic Management System\obj\Debug\Clinic Management System.exe
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\Clinic Management System\obj\Debug\Clinic Management System.pdb
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\Clinic Management System\bin\Debug\Clinic Management System.exe.config
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\Clinic Management System\bin\Debug\Clinic Management System.exe
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\Clinic Management System\bin\Debug\Clinic Management System.pdb
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic Management System.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Form1.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AddPatientUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addAdminUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addReceptionistUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AdminManagement.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AdminUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AppointmentListUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.BookAppointmentUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.Dashboard.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteAdminUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addDoctorUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteDoctorUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeletePatientUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteReceptionist.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DoctorManagement.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DoctorUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.Login.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.MedicalHistory.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.PatientManagement.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.PatientUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.GiveTreatmentUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.ReceptionistManagement.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.ReceptionistUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.SeeAppointment.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateAdminUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateDoctorUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdatePatientUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateReceptionist.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Properties.Resources.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic Management System.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic Management System.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic Management System.exe
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\Clinic Management System\obj\Debug\Clinic Management System.pdb
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\Clinic Management System\bin\Debug\Clinic Management System.exe.config
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\Clinic Management System\bin\Debug\Clinic Management System.exe
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\Clinic Management System\bin\Debug\Clinic Management System.pdb
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\Clinic Management System\obj\Debug\Clinic Management System.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Form1.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AddPatientUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addAdminUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addReceptionistUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AdminManagement.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AdminUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AppointmentListUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.BookAppointmentUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.Dashboard.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteAdminUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addDoctorUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteDoctorUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeletePatientUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteReceptionist.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DoctorManagement.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DoctorUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.Login.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.MedicalHistory.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.PatientManagement.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.PatientUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.GiveTreatmentUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.ReceptionistManagement.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.ReceptionistUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.SeeAppointment.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateAdminUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateDoctorUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdatePatientUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateReceptionist.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Properties.Resources.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\Clinic Management System\obj\Debug\Clinic Management System.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\Clinic Management System\obj\Debug\Clinic Management System.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\Clinic Management System\obj\Debug\Clinic Management System.exe
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\Clinic Management System\obj\Debug\Clinic Management System.pdb
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\New folder\Clinic Management System\bin\Debug\Clinic Management System.exe.config
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\New folder\Clinic Management System\bin\Debug\Clinic Management System.exe
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\New folder\Clinic Management System\bin\Debug\Clinic Management System.pdb
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic Management System.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Form1.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AddPatientUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addAdminUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addReceptionistUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AdminManagement.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AdminUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AppointmentListUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.BookAppointmentUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.Dashboard.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteAdminUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addDoctorUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteDoctorUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeletePatientUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteReceptionist.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DoctorManagement.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DoctorUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.Login.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.MedicalHistory.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.PatientManagement.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.PatientUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.GiveTreatmentUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.ReceptionistManagement.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.ReceptionistUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.SeeAppointment.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateAdminUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateDoctorUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdatePatientUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateReceptionist.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Properties.Resources.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic Management System.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic Management System.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic Management System.exe
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated File Here\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic Management System.pdb
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\Clinic Management System\bin\Debug\Clinic Management System.exe.config
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\Clinic Management System\bin\Debug\Clinic Management System.exe
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\Clinic Management System\bin\Debug\Clinic Management System.pdb
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\Clinic Management System\obj\Debug\Clinic Management System.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\Clinic Management System\obj\Debug\Clinic_Management_System.Form1.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AddPatientUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addAdminUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addReceptionistUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AdminManagement.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AdminUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AppointmentListUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.BookAppointmentUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.Dashboard.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteAdminUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addDoctorUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteDoctorUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeletePatientUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteReceptionist.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DoctorManagement.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DoctorUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.Login.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.MedicalHistory.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.PatientManagement.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.PatientUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.GiveTreatmentUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.ReceptionistManagement.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.ReceptionistUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.SeeAppointment.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateAdminUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateDoctorUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdatePatientUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateReceptionist.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\Clinic Management System\obj\Debug\Clinic_Management_System.Properties.Resources.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\Clinic Management System\obj\Debug\Clinic Management System.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\Clinic Management System\obj\Debug\Clinic Management System.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\Clinic Management System\obj\Debug\Clinic Management System.exe
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\Clinic Management System\obj\Debug\Clinic Management System.pdb
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.TotalEarning.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\Clinic Management System\bin\Debug\Clinic Management System.exe.config
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\Clinic Management System\bin\Debug\Clinic Management System.exe
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\Clinic Management System\bin\Debug\Clinic Management System.pdb
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\Clinic Management System\obj\Debug\Clinic Management System.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Form1.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AddPatientUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addAdminUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addReceptionistUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AdminManagement.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AdminUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AppointmentListUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.BookAppointmentUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.Dashboard.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteAdminUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addDoctorUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteDoctorUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeletePatientUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteReceptionist.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DoctorManagement.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DoctorUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.GiveTreatmentUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.Login.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.MedicalHistory.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.PatientManagement.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.PatientUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.ReceptionistManagement.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.ReceptionistUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.SeeAppointment.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.TotalEarning.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateAdminUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateDoctorUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdatePatientUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateReceptionist.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Properties.Resources.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\Clinic Management System\obj\Debug\Clinic Management System.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\Clinic Management System\obj\Debug\Clinic Management System.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\Clinic Management System\obj\Debug\Clinic Management System.exe
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\Clinic Management System\obj\Debug\Clinic Management System.pdb
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\New folder\Clinic Management System\bin\Debug\Clinic Management System.exe.config
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\New folder\Clinic Management System\bin\Debug\Clinic Management System.exe
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\New folder\Clinic Management System\bin\Debug\Clinic Management System.pdb
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic Management System.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Form1.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AddPatientUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addAdminUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addReceptionistUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AdminManagement.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AdminUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.AppointmentListUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.BookAppointmentUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.Dashboard.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteAdminUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.addDoctorUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteDoctorUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeletePatientUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DeleteReceptionist.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DoctorManagement.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.DoctorUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.GiveTreatmentUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.Login.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.MedicalHistory.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.PatientManagement.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.PatientUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.ReceptionistManagement.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.ReceptionistUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.SeeAppointment.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.TotalEarning.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateAdminUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateDoctorUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdatePatientUI.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Presentation_Layer.UpdateReceptionist.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic_Management_System.Properties.Resources.resources
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic Management System.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic Management System.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic Management System.exe
+C:\Users\User\Desktop\Object Oriented Programming 2\Updated New File\New folder\New folder\New folder\Clinic Management System\obj\Debug\Clinic Management System.pdb
